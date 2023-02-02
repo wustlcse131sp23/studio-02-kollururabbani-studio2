@@ -53,6 +53,8 @@ public class GabmlersRuin {
 			}
 		}
 		System.out.println("Losses: " + losses + " Wins: " + wins + " Simulations: " + totalSimulations);
+	
+	
 	}
 	
 
